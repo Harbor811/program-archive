@@ -1,5 +1,5 @@
 ![image](https://members-csforall.imgix.net/members/logos/codehs-logo-hz-jpg.jpg)
-## builds
+## CodeHS Builds
 |Name|Description|
 |---|---|
 |[Breakout!](https://codehs.com/sandbox/harbor811/breakout)|Simple Breakout game|
@@ -12,3 +12,7 @@
 |Swine Meeper|(Unavailable)|
 |Tetris|(Unavailable)|
 |[Wiremod Breadboard](https://codehs.com/sandbox/harbor811/wiremod-breadboard-beta/run)|Would love to pick this one back up|
+## Replit Builds
+Lost my Replit school account, so these may take me a bit to get back up to speed.
+## C++ Builds
+All C++ Builds are posted in the [releases](https://github.com/Harbor811/program-archive/releases) tab.
