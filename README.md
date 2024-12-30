@@ -16,9 +16,11 @@
 ##
 ![image](https://cdn.sanity.io/images/bj34pdbp/migration/3c2f2d404a571d2c9fbca934360352698d63433a-1920x900.png)
 ##
-As of 12.27.24
-- Replit now only allows 3 projects per account, so "PlateUp! Seed Gen" is not posted
-- Replit has also changed Node.js input to no longer use "prompt()", so these programs no longer function (will fix soon)
+|Name|Description|
+|---|---|
+|[Hangman](https://replit.com/@begunharbor811/Hangman)|Node.js implementation of Hangman|
+|[Escape Light Containment](https://replit.com/@begunharbor811/Escape-Light-Containment)|A silly little SCP themed console game, made in CSP class|
+|[Mad Libs](https://replit.com/@begunharbor811/Mad-Libs)|Madlibs console project.|
 
 ##
 ![image](https://cdn.neowin.com/news/images/uploaded/2014/10/visual-studio-banner-neowin.jpg)
